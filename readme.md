@@ -4,4 +4,7 @@
 <h3>Prints all players ip from logs</h3>
 
 How to use?
-	python start.py <name log folder (eg. logs)>
+	- install all librares
+	- python start.py <name log folder (eg. logs)>
+
+<h2>✋ I take no responsibility for the operation of the program ✋ </h2>
